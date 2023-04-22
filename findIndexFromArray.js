@@ -1,7 +1,4 @@
-
-
 // FIND INDEX FROM ARRAY THROUGH INPUT VALUE
-
 
 // 1] IT WILL RETURN FIRST INDEX OF TARGET VALUE AND THEN RETURN
 const arr = [9, 5, 8, 0, 2, 4, 6, 5];
@@ -15,20 +12,17 @@ const findIndexFromArray = (arr, value) => {
 };
 console.log(findIndexFromArray(arr, value));
 
-
-
-
 // 2] IT WILL RETURN ALL TARGETED INDEXES FROM ARRAY
-const arr = [9, 5, 8, 0, 8, 2, 9, 4, 9, 6, 5];
-const value = 9;
+const arr2 = [9, 5, 8, 0, 8, 2, 9, 4, 9, 6, 5];
+const value2 = 9;
 
-const findIndexFromArray = (arr, value) => {
+const findIndexFromArray2 = (arr2, value2) => {
   let index = [];
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] === value) {
+  for (let i = 0; i < arr2.length; i++) {
+    if (arr2[i] === value2) {
       index.push(i);
     }
   }
   return index;
 };
-console.log(findIndexFromArray(arr, value));
+console.log(findIndexFromArray2(arr2, value2));
