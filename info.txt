@@ -21,3 +21,16 @@ https://www.youtube.com/watch?v=w1nfy2tGP9M&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr
 3] findIndexFromArray.js
 SEARCH INDEX FROM ARRAY
 https://www.youtube.com/watch?v=CRryTuR-4Jo&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7&index=5&ab_channel=CodeStepByStep
+
+
+4] getSecondLastBigNumberFromArray.js
+YouTube Channel: Coder Dost 
+Javascript LIVE Coding Interview (Mock) #javascript #reactjs
+https://www.youtube.com/watch?v=Hq7EI_LtE7U&ab_channel=CoderDost
+
+
+5] findMatchedObjectKeyValueFromTwoObjects.js
+
+
+6] rotate2ValuesInArray.js
+
