@@ -1,5 +1,3 @@
-
-
 // INSERTION IN ARRAY |-| ADD NEW VALUE IN ARRAY
 
 const arr = [9, 5, 8, 0, 2, 4, 6, 5];
