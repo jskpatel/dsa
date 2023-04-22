@@ -11,3 +11,13 @@ https://www.youtube.com/watch?v=20GIloOLBQ0&t=225s&ab_channel=CodeStepByStep
 1] insertionInArray.js
 INSERTION IN ARRAY
 https://www.youtube.com/watch?v=aPRn4TBnI20&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7&index=3&ab_channel=CodeStepByStep
+
+
+2] deletionFromArray.js
+DELETION FROM ARRAY WITH INDEX
+https://www.youtube.com/watch?v=w1nfy2tGP9M&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7&index=4&ab_channel=CodeStepByStep
+
+
+3] findIndexFromArray.js
+SEARCH INDEX FROM ARRAY
+https://www.youtube.com/watch?v=CRryTuR-4Jo&list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7&index=5&ab_channel=CodeStepByStep

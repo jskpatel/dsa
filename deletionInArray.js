@@ -1,5 +1,3 @@
-
-
 // DELETION IN ARRAY |-| REMOVE VALUE WITH INDEX FROM ARRAY
 
 const arr = [9, 5, 8, 0, 2, 4, 6, 5];
@@ -14,3 +12,8 @@ const deletionArray = (arr, target) => {
 };
 
 console.log(deletionArray(arr, target));
+output: [9, 5, 8, 0, 4, 6, 5]; // removed value = 2 from array
+
+// 2] SHORTCUT OR DEFAULT METHOD OF ARRAY
+console.log(arr.splice(target, 1));
+output: [9, 5, 8, 0, 4, 6, 5]; // removed value = 2 from array
