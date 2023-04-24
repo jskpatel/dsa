@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=Hq7EI_LtE7U&ab_channel=CoderDost
 
 5] findMatchedObjectKeyValueFromTwoObjects.js
 
-
 6] rotate2ValuesInArray.js
 
-
 7] marge2ArrayInNewVariable.js
+
+8] arraySorting.js
